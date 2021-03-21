@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "187053096664",
+    "firebase_url": "https://mesajlasma-b2b04-default-rtdb.firebaseio.com",
+    "project_id": "mesajlasma-b2b04",
+    "storage_bucket": "mesajlasma-b2b04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187053096664:android:4b67c59fd851803b0f61ad",
+        "android_client_info": {
+          "package_name": "com.kaya.mesajlasmauygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187053096664-lb456l3apkv217eb4bbr9jr1vs3jssho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh9a9L5ejE2G9NKpaugV77pCDMQLK_bwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187053096664-lb456l3apkv217eb4bbr9jr1vs3jssho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
